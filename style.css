@@ -1,0 +1,11 @@
+body {
+  background-color: black;
+  font: 30px sans-serif;
+  overflow: hidden;
+}
+
+canvas {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
