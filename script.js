@@ -34,7 +34,7 @@ function Particle(x, y, z) {
 function randomizeParticle(p) {
   p.x = Math.random() * canvasWidth;
   p.y = Math.random() * canvasHeight;
-  p.z = Math.random() * 1500 + 500;
+  p.z = Math.random() * 1500 + 800;
   return p;
 }
 
