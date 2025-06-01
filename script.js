@@ -1,10 +1,3 @@
-// Concepts used in the code:
-// 1. Geometry - Calculating positions, angles, and sizes.
-// 2. Trigonometry - Using trigonometric functions for calculations.
-// 3. Perspective - Creating depth and perspective with focal length (FL).
-// 4. User Interaction - Responding to mouse events for interaction.
-// 5. Canvas Drawing - Rendering particles and background on the canvas.
-
 var PARTICLE_NUM = 2000; // Total particles in the screen
 var PARTICLE_BASE_RADIUS = 0.95; // Size and dimantion of particle
 var FL = 500; // Focal Length
